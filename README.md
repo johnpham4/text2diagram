@@ -1,5 +1,1 @@
-<div align="center">
-
-# [johnpham4/Capstone_backend](https://github.com/johnpham4/Capstone_backend.git)
-
-</div>
+click this link to the repo: [johnpham4/Capstone_backend](https://github.com/johnpham4/Capstone_backend.git)
